@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6330a656-f696-4a2a-b93b-86673bb07bcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcpectClassesThreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.ConcpectThreading1.executor": "Run",
     "Python.ConcpectThreading1_2.executor": "Run",
     "Python.module_10_1.executor": "Run",
+    "Python.module_10_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }

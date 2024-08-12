@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6330a656-f696-4a2a-b93b-86673bb07bcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectProblemsOfThreadingBlocking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectThreadLock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_10_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BelyaevaAnya"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BelyaevaAnya&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BelyaevaAnya/HW_Urban_Modul_Threading.git",
-    "accountId": "80a440b0-8ffb-4217-a4a9-08968490def9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BelyaevaAnya/HW_Urban_Modul_Threading.git&quot;,
+    &quot;accountId&quot;: &quot;80a440b0-8ffb-4217-a4a9-08968490def9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -47,15 +51,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1.executor": "Run",
     "Python.ConcpectClassesThreading.executor": "Run",
+    "Python.ConcpectProblemsOfThreadingBlocking.executor": "Run",
+    "Python.ConcpectThreadLock.executor": "Run",
     "Python.ConcpectThreading1.executor": "Run",
     "Python.ConcpectThreading1_2.executor": "Run",
     "Python.module_10_1.executor": "Run",
     "Python.module_10_2.executor": "Run",
+    "Python.module_10_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\belae\PycharmProjects\HW_Urban_Modul_Threading" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
